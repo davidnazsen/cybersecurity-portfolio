@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Portfolio – David Martínez Villena
 
 ## 👋 Sobre mí
-Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y desarrollar habilidades prácticas en seguridad informática. Actualmente me estoy enfocando en fundamentos de hacking ético, análisis de vulnerabilidades y defensa básica de sistemas. Estoy estudiando dos masters: uno de ciberseguridad e IA y otro de ciberseguridad y fullstack. Complmentando tambien estoy con un curso de Pyton.
+Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y desarrollar habilidades prácticas en seguridad informática. Actualmente me estoy enfocando en fundamentos de hacking ético, análisis de vulnerabilidades y defensa básica de sistemas. Estoy estudiando dos masters: uno de ciberseguridad e IA y otro de ciberseguridad y fullstack. Complementando tambien estoy con un curso de Python.
 
 
 
@@ -41,7 +41,7 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 
 ## 🎓 Formación y Certificaciones
 
-- 📘 Introduccion a la Ciberseguridad (Cisco)
+- 📘 Introducción a la Ciberseguridad (Cisco)
 - 📘 Pre Security (TryHackMe)
 - 📘 Cyber Security 101 (TryHackMe)
 - 📘 SOC Level 1 (TryHackMe, en progreso)
@@ -50,6 +50,7 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 - 📘 Web Fundamentals (TryHackMe progreso)
 - 📘 AI Security (TryHackMe progreso)
 - 📘 Google Cybersecurity Certificate (en progreso)
+- 📘 Ejptv2 (en progreso)
 - 📘 CompTIA Security+ (planificado)
 
 ---
@@ -62,9 +63,6 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 
 ## 📝 Writeups
 
-Aquí documento lo que aprendo:
-
-👉 https://github.com/[tu-usuario]/writeups
 
 ---
 
