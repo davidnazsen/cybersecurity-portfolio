@@ -1,37 +1,41 @@
-# 🛡️ Cybersecurity Portfolio – [Tu Nombre]
+# 🛡️ Cybersecurity Portfolio – David Martínez Villena
 
 ## 👋 Sobre mí
-Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y desarrollar habilidades prácticas en seguridad informática. Actualmente me estoy enfocando en fundamentos de hacking ético, análisis de vulnerabilidades y defensa básica de sistemas.
+Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y desarrollar habilidades prácticas en seguridad informática. Actualmente me estoy enfocando en fundamentos de hacking ético, análisis de vulnerabilidades y defensa básica de sistemas. Estoy estudiando dos masters: uno de ciberseguridad e IA y otro de ciberseguridad y fullstack. Complmentando tambien estoy con un curso de Pyton.
+
+
+
 
 🎯 Objetivo: Conseguir mi primer rol como Junior Cybersecurity Analyst / Pentester  
 📍 Ubicación: España  
-📫 Email: [tu email]  
-🔗 LinkedIn: [tu perfil]  
-💻 GitHub: https://github.com/[tu-usuario]
+📫 Email: davidnazsen@gmail.com 
+🔗 LinkedIn: linkedin.com/in/david-martinez-villena-4670971b2
+💻 GitHub: https://github.com/davidnazsen/cybersecurity-portfolio
+
 
 ---
 
-## 🧠 Habilidades (Nivel Junior)
+## 🧠 Habilidades
 
-### 🔴 Red Team (básico)
+### 🔴 Red Team 
 - Reconocimiento con Nmap  
 - Escaneo de servicios  
 - Conceptos de vulnerabilidades (XSS, SQLi)  
-- Uso básico de Metasploit  
+- Uso de Metasploit  
 
-### 🔵 Blue Team (básico)
+### 🔵 Blue Team 
 - Lectura de logs  
 - Conceptos de SIEM  
 - Fundamentos de respuesta a incidentes  
 
 ### 💻 Sistemas
-- Linux básico (Kali Linux, Ubuntu)  
-- Comandos básicos de terminal  
+- Linux (Kali Linux, Ubuntu)  
+- Comandos de terminal  
 - Redes (TCP/IP, puertos, protocolos)
 
 ### 👨‍💻 Programación
-- Python básico (scripts simples)  
-- Bash básico  
+- Python (scripts)  
+- Bash  
 
 ---
 
@@ -96,10 +100,9 @@ Script en Python para escanear puertos abiertos.
 
 ## 🧩 Plataformas de práctica
 
-- TryHackMe → [tu perfil]  
-- Hack The Box → [tu perfil]  
+🟥 TryHackMe:   https://tryhackme.com/p/Nazsen
+🟩 HackTheBox: https://app.hackthebox.com/public/users/2579653
 
----
 
 ## 📝 Writeups
 
