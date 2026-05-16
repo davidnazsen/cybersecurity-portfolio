@@ -8,7 +8,7 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 
 🎯 Objetivo: Conseguir mi primer rol como Junior Cybersecurity Analyst / Pentester  
 📍 Ubicación: España  
-📫 Email: davidnazsen@gmail.com /n
+📫 Email: davidnazsen@gmail.com
 🔗 LinkedIn: linkedin.com/in/david-martinez-villena-4670971b2
 💻 GitHub: https://github.com/davidnazsen/cybersecurity-portfolio
 
