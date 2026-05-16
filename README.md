@@ -41,7 +41,7 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 
 ## 🧪 Proyectos (Hands-on)
 
-### 🔍 1. Escaneo de Red con Nmap
+### 🔍 1. 
 **Descripción:**  
 Realicé escaneos de red para identificar puertos abiertos y servicios.
 
