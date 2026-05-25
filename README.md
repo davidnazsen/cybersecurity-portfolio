@@ -94,3 +94,7 @@ Busco una oportunidad para empezar en ciberseguridad como:
 ## ⚡ Nota
 
 Este portfolio refleja mi aprendizaje continuo. Estoy en proceso de mejorar mis habilidades cada día. Os dejo documentos relacionados con mis pathings en pdf, que muestra todos los conocimeintos que he aprendido, tanto teoricos como prácticos en los sigueintes PDF: **Ciberseguridad con Tryhackme.pdf, Curso Presecurity.pdf y Writeups Maquinas HTB.pdf**
+
+- [📄 Ciberseguridad con Tryhackme](./Ciberseguridad%20con%20Tryhackme.pdf)
+- [📄 Curso Presecurity](./Curso%20Presecurity.pdf)
+- [📄 Writeups Maquinas HTB](./Writeups%20Maquinas%20HTB.pdf)
