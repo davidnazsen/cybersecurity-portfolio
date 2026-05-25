@@ -4,8 +4,6 @@
 Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y desarrollar habilidades prácticas en seguridad informática. Actualmente me estoy enfocando en fundamentos de hacking ético, análisis de vulnerabilidades y defensa básica de sistemas. Estoy estudiando dos masters: uno de ciberseguridad e IA y otro de ciberseguridad y fullstack. Complementando tambien estoy con un curso de Python.
 
 
-
-
 🎯 Objetivo: Conseguir mi primer rol como Junior Cybersecurity Analyst / Pentester  
 📍 Ubicación: España  
 📫 Email: davidnazsen@gmail.com  
@@ -34,8 +32,15 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 - Redes (TCP/IP, puertos, protocolos)
 
 ### 👨‍💻 Programación
-- Python (scripts)  
-- Bash  
+- Python código y scripts 
+- Bash
+- JavaScript
+- HTML
+- CSS
+- Java
+- Kotlin
+- Swift
+- PHP
 
 ---
 
@@ -60,10 +65,11 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 🟥 TryHackMe:   https://tryhackme.com/p/Nazsen
 🟩 HackTheBox: https://app.hackthebox.com/public/users/2579653
 
+## 🧩 Idiomas
 
-## 📝 Writeups
-
-
+- Ingles (C1 aproximadamente, años de experiencia trabajados en Irlanda: 4 años)
+- Portugues (Elemental)
+  
 ---
 
 ## 🚀 Actualmente aprendiendo
@@ -78,10 +84,13 @@ Soy un estudiante / autodidacta en ciberseguridad con interés en aprender y des
 
 Busco una oportunidad para empezar en ciberseguridad como:
 - Junior SOC Analyst  
-- Junior Pentester  
+- Junior Pentester
+- AppSec / DevSecOps
+- Cloud Security
+- Incident Responder
 
 ---
 
 ## ⚡ Nota
 
-Este portfolio refleja mi aprendizaje continuo. Estoy en proceso de mejorar mis habilidades cada día.
+Este portfolio refleja mi aprendizaje continuo. Estoy en proceso de mejorar mis habilidades cada día. Os dejo documentos relacionados con mis pathings en pdf, que muestra todos los conocimeintos que he aprendido, tanto teoricos como prácticos en los sigueintes PDF: **Ciberseguridad con Tryhackme.pdf, Curso Presecurity.pdf y Writeups Maquinas HTB.pdf**
